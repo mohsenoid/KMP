@@ -4,7 +4,7 @@ plugins {
     kotlin("multiplatform")
     id("com.android.library")
     id("org.jlleitschuh.gradle.ktlint") version "10.0.0"
-    id("io.gitlab.arturbosch.detekt") version "1.17.1"
+//    id("io.gitlab.arturbosch.detekt") version "1.17.1"
 }
 
 group = "com.mohsenoid"
